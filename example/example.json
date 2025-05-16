@@ -1,0 +1,5 @@
+[
+    { "name": "livingroom", "label": "Living Room" },
+    { "name": "bedroom",    "label": "Bed Room" },
+    { "name": "kitchen",    "label": "Kitchen" }
+]

@@ -1,0 +1,5 @@
+/vendor
+/output/*.items
+.rubocop_todo.yml
+.ruby-version
+Gemfile.lock
